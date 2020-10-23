@@ -1,0 +1,6 @@
+act 1 :
+	=> comparer ch[i]==ch[len(ch)-i-1] apres que i<len(ch) mod 2 et ch[i]==ch[len(ch)-i-1
+act 2 :
+	=> random : permet de generer un réel aléatoire entre 0 et 1
+	=> randint : permet de generer un nombre aléatoire entre deux entier deffinie
+	=> choice : permer de choisir un charactére aleatoire dans un chaine deffinie
